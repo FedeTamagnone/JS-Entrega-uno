@@ -12,5 +12,5 @@ if (temperatura <= 10) {
 let productos = prompt("Ingresa los articulos que debes comprar");
 while (productos != "salir"){
     console.log(productos);
-    productos = prompt("Ingresa otro producto de lo contrario escribí salir");
+    productos = prompt("Ingresa otro producto, de lo contrario escribí salir");
 }
